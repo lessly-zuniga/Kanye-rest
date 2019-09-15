@@ -1,0 +1,10 @@
+{
+    "name": "kanye-app",
+    "version": 2,
+    "puplic" : true,
+    "builds" : [
+        {
+            "src" : "package.json", "use" : "@now/next"
+        }
+    ]
+}
